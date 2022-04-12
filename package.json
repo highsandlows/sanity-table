@@ -1,6 +1,6 @@
 {
-  "name": "sanity-plugin-table",
-  "version": "2.3.0",
+  "name": "sanity-plugin-table-maker",
+  "version": "2.3.01",
   "description": "Table schema type and input component for Sanity CMS",
   "main": "lib/TableComponent.js",
   "scripts": {
@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/rdunk/sanity-plugin-table.git"
+    "url": "git+ssh://git@github.com/highsandlows/sanity-table.git"
   },
-  "author": "Rupert Dunk <rupert@rupertdunk.com>",
+  "author": "DEV_HAL",
   "keywords": [
     "sanity",
     "sanity-plugin"
@@ -27,18 +27,18 @@
     "styled-components": "^5.2.1"
   },
   "devDependencies": {
-    "@types/react": "^17.0.3",
-    "eslint": "7.22.0",
-    "eslint-config-prettier": "8.1.0",
-    "eslint-config-sanity": "5.1.0",
-    "eslint-plugin-react": "7.22.0",
-    "prettier": "2.2.1",
-    "sanipack": "1.0.8"
+    "@types/react": "^18.0.2",
+    "eslint": "8.13.0",
+    "eslint-config-prettier": "8.5.0",
+    "eslint-config-sanity": "6.0.0",
+    "eslint-plugin-react": "7.29.4",
+    "prettier": "2.6.2",
+    "sanipack": "2.1.0"
   },
   "bugs": {
-    "url": "https://github.com/rdunk/sanity-plugin-table/issues"
+    "url": "github.com/highsandlows/sanity-table/issues"
   },
-  "homepage": "https://github.com/rdunk/sanity-plugin-table#readme",
+  "homepage": "github.com/highsandlows/sanity-table#readme",
   "prettier": {
     "semi": false,
     "printWidth": 100,

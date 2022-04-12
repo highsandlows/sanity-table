@@ -1,5 +1,5 @@
 import React from 'react';
-import config from 'config:table';
+import config from 'config:table-maker';
 import { DatabaseIcon } from '@sanity/icons';
 import TableComponent from '../TableComponent';
 import TablePreview from '../components/TablePreview';
